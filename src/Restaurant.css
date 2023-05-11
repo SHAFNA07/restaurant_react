@@ -1,0 +1,12 @@
+#c1{
+    transition: .3s ease-in;
+    text-decoration: none;
+}
+
+#c1:hover{
+    transform: scale(1.04);
+}
+
+#l1{
+    text-decoration: none;
+}
